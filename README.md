@@ -16,7 +16,7 @@ Contact HYPR or ForgeRock for any assistance in the deployment of HYPR or ForgeR
 To build this node from the source you will need to contact HYPR for the HYPR Java SDK jar, which is used by the authentication node. 
 
 ``` 
-$ git clone ...
+$ git clone `https://github.com/HYPR-Corp-Public/HYPR-Forgerock-Authentication-Node.git`
 $ cd Forgerock-Authentication-Node
 $ mvn clean package 
 ```
