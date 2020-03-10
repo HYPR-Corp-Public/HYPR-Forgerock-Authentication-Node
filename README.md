@@ -1,13 +1,14 @@
 # HYPR-Forgerock-Authentication-Node
 
-HYPR and [ForgeRock](https://www.forgerock.com/) have partnered to deliver a true passwordless authentication experience to the enterprise. The HYPR solution ensures that your users’ credentials always remain safe on personal devices. Eliminating centralized passwords enables HYPR to remove the target and provide a secure password-less experience for your customers and employees.
+HYPR and [ForgeRock](https://www.forgerock.com/) have partnered to deliver a true passwordless authentication to the enterprise. HYPR is the first Authentication Platform designed to eliminate passwords and shared secrets. Forgerock, as the leader in CIAM, works closely with HYPR to enable a true passwordless identity.
 
-By decentralizing user authentication, HYPR minimizes the risk of a breach, eliminates credential reuse, and enables enterprises to Trust Anyone.
+HYPR’s native plugins for Forgerock enable easy integration and deployment with Auth Trees. In 2019, Forgerock and HYPR announced a Go to Market partnership to deliver true passwordless security to more than 1 Billion identities powered by Forgerock.
 
 ## Pre-Requisites 
 * Have a deployed ForgeRock OpenAM 6.0+ instance deployed
 * Have a deployed HYPR Server with access to the HYPR Control Center
 * Have an application in the Control Center created for ForgeRock
+* Have access to the HYPR Authentication Node for ForgeRock. You must contact HYPR or ForgeRock to gain access to this Authentication Node. 
 
 Contact HYPR or ForgeRock for any assistance in the deployment of HYPR or ForgeRock OpenAM.
 
